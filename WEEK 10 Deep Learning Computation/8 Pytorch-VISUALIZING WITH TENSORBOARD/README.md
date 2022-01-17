@@ -1,4 +1,4 @@
-# EXPLORING TENSORBOARD
+# EXPLORING TENSORBOARD PYTORCH
 Here is the result of some cells on notebook
 ## Section 2 - Showing Image Tab of Tensorboard
 ![2 tab image of tensorboard](https://raw.githubusercontent.com/shintafiaa/Tel-U-ML-Course/main/WEEK%2010%20Deep%20Learning%20Computation/8%20Pytorch-VISUALIZING%20WITH%20TENSORBOARD/8%20VISUALIZING%20IMAGE%20FILES/2%20tab%20image%20of%20tensorboard.JPG)
